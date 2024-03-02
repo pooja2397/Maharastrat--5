@@ -1,0 +1,185 @@
+
+.header {
+
+    height: 150px;
+    background-color:blueviolet;
+    
+   
+}
+
+.left {
+    position: relative;
+    top: 20px;
+    left: 150px;
+    display: inline-block;
+    justify-self: center;
+}
+
+
+
+.mid ul li {
+
+    display: inline;
+    justify-content:center;
+    align-items:center;
+    padding-left: 20px;
+    margin-left: 20px;
+  
+}
+
+
+
+.container1 {
+
+    color: white;
+    height: 100px;
+    position: relative;
+    top: 4px;
+    background-color: blueviolet;
+   
+}
+
+
+h1 {
+    
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+    left: 150px;
+}
+
+
+
+.social
+
+{
+
+    color: white;
+    height: 100px;
+    position: relative;
+    top: 4px;
+    background-color:blue;
+
+}
+
+.foot-pannel1 {
+
+    color: white;
+    background-color:green;
+     
+    font-size: 20px;
+
+}
+
+
+
+.foot-pannel2 {
+
+    color: white;
+    background-color: green;
+    
+    
+}
+
+
+.right {
+
+   width: 40%;
+    margin-left: auto;
+}
+
+
+
+
+
+.foot-pannel2 {
+
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    background-image:url("footer\ image.png");
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.foot-pannel2 p {
+
+    height: 200px;
+    width: 200px;
+}
+
+
+.foot-pannel2 ul {
+
+    margin-top: 10px;
+    
+}
+
+
+.foot-pannel2 ul a {
+
+    text-decoration: none;
+}
+
+
+ .foot-pannel2 a {
+
+    display: block;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+
+.aside {
+
+    position: relative;
+    top: 30px;
+    width: 60%;
+    background-color: white;
+    color: black;
+    padding-right: 10px;
+    margin-right: 10px;
+    font-size: 32px;
+    float: left;
+
+}
+
+.social {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.media ul li {
+
+
+}
+
+
+.heading1 h1 {
+
+   
+}
+
+.foot-pannel3 {
+
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right input {
+
+    height: 50px;
+}
+
+.right button {
+
+    height: 50px;
+}
